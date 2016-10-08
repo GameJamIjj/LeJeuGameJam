@@ -7,20 +7,15 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite1_pixel</sprite>
-    <sprite>sprites\h2o_james</sprite>
-    <sprite>sprites\spr_Wall_jam</sprite>
-    <sprite>sprites\spritesol_jo</sprite>
+    <sprite>sprites\sol1_pixel</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object1_pixel</object>
-    <object>objects\h2oObjet_james</object>
-    <object>objects\obj_Wall_jam</object>
-    <object>objects\objsol_jo</object>
+    <object>objects\object2_pixel</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room_test_jam</room>
     <room>rooms\roomtest_pixel</room>
   </rooms>
   <help>
