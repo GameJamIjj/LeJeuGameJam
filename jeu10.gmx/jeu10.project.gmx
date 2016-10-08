@@ -16,6 +16,11 @@
     <object>objects\object2_pixel</object>
   </objects>
   <rooms name="rooms">
+<<<<<<< HEAD
+=======
+    <room>rooms\roomTest2_jam</room>
+    <room>rooms\room_test_jam</room>
+>>>>>>> origin/master
     <room>rooms\roomtest_pixel</room>
   </rooms>
   <help>
