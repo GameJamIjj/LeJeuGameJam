@@ -18,6 +18,7 @@
     <object>objects\obj_Wall_jam</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\roomTest2_jam</room>
     <room>rooms\room_test_jam</room>
     <room>rooms\roomtest_pixel</room>
   </rooms>
