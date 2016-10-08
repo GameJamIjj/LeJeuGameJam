@@ -8,17 +8,23 @@
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
   <bbox_left>0</bbox_left>
+<<<<<<< HEAD
   <bbox_right>63</bbox_right>
   <bbox_top>11</bbox_top>
   <bbox_bottom>52</bbox_bottom>
+=======
+  <bbox_right>190</bbox_right>
+  <bbox_top>0</bbox_top>
+  <bbox_bottom>121</bbox_bottom>
+>>>>>>> origin/master
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
   <For3D>0</For3D>
-  <width>64</width>
-  <height>64</height>
+  <width>191</width>
+  <height>122</height>
   <frames>
     <frame index="0">images\spr_h2_0.png</frame>
   </frames>
